@@ -1,19 +1,263 @@
 {
-    "posts": [
+    "product": [
         {
             "id": 1,
-            "title": "json-server",
-            "author": "typicode"
-        }
-    ],
-    "comments": [
+            "title": "Zebronic ",
+            "price": 4000,
+            "acctualPrice": 8000,
+            "description": "Zebronic zb 650 bluetooth headphone",
+            "quantity": 1,
+            "image": "images/headphone/hp3.jpg",
+            "category": "headphone",
+            "rating": 3,
+            "review": 12000,
+            "deliveryCharge": "free delivery",
+            "replacementPeriod": "1 week",
+            "warrantyPeriod": "1 year",
+            "stock": 12,
+            "subtotal": 4000
+        },
         {
-            "id": 1,
-            "body": "some comment",
-            "postId": 1
+            "id": 2,
+            "title": "LV",
+            "price": 7000,
+            "acctualPrice": 12000,
+            "description": "brown,women slim bag",
+            "quantity": 1,
+            "image": "images/handbag/bag1.jpg",
+            "category": "bag",
+            "rating": 2,
+            "review": 12000,
+            "deliveryCharge": "free delivery",
+            "replacementPeriod": "1 week",
+            "warrantyPeriod": "1 year",
+            "stock": 5,
+            "subtotal": 1200
+        },
+        {
+            "id": 3,
+            "title": "Safari",
+            "price": 3000,
+            "acctualPrice": 3500,
+            "description": "Women Black Handbag - Regular Size ",
+            "quantity": 1,
+            "image": "images/handbag/bag2.jpg",
+            "category": "bag",
+            "rating": 4.6,
+            "review": 18000,
+            "deliveryCharge": "free delivery",
+            "replacementPeriod": "1 week",
+            "warrantyPeriod": "1 year",
+            "stock": 3,
+            "subtotal": 1600
+        },
+        {
+            "id": 4,
+            "title": "Fila",
+            "price": 500,
+            "acctualPrice": 800,
+            "description": "some description",
+            "quantity": 1,
+            "image": "images/men tshirt/ts10.jpg",
+            "category": "tshirt",
+            "rating": 4.4,
+            "review": 12000,
+            "deliveryCharge": "free delivery",
+            "replacementPeriod": "1 week",
+            "warrantyPeriod": "1 year",
+            "stock": 16
+        },
+        {
+            "id": 5,
+            "title": "Jbl",
+            "price": 2000,
+            "acctualPrice": 2550,
+            "description": "Jbl 2.0 headphone",
+            "quantity": 1,
+            "image": "images/headphone/hp1.jpg",
+            "category": "headphone",
+            "rating": 4.4,
+            "review": 12000,
+            "deliveryCharge": "free delivery",
+            "replacementPeriod": "1 week",
+            "warrantyPeriod": "1 year",
+            "stock": 12
+        },
+        {
+            "id": 6,
+            "title": "Toreto",
+            "price": 1500,
+            "acctualPrice": 1720,
+            "description": "Toreto TOR-206 bluetooth",
+            "quantity": 1,
+            "image": "images/headphone/headphone.jpg",
+            "category": "headphone",
+            "rating": 4.4,
+            "review": 12000,
+            "deliveryCharge": "free delivery",
+            "replacementPeriod": "1 week",
+            "warrantyPeriod": "1 year",
+            "stock": 12
+        },
+        {
+            "id": 7,
+            "title": "Nokia 3310",
+            "price": 5000,
+            "acctualPrice": 6200,
+            "description": "Nokia 3310 Dual SIM Keypad Mobile with MP3 Player",
+            "quantity": 1,
+            "image": "images/mobile/nokia.jpg",
+            "category": "mobile",
+            "rating": 4.4,
+            "review": 12000,
+            "deliveryCharge": "free delivery",
+            "replacementPeriod": "1 week",
+            "warrantyPeriod": "1 year",
+            "stock": 12
+        },
+        {
+            "id": 8,
+            "title": "Iphone",
+            "price": 60000,
+            "acctualPrice": 62000,
+            "description": "APPLE iPhone 14 (Blue, 128 GB)",
+            "quantity": 1,
+            "image": "images/mobile/iphone.jpg",
+            "category": "mobile",
+            "rating": 4.4,
+            "review": 12000,
+            "deliveryCharge": "free delivery",
+            "replacementPeriod": "1 week",
+            "warrantyPeriod": "1 year",
+            "stock": 12
+        },
+        {
+            "id": 9,
+            "title": "Hollister",
+            "price": 900,
+            "acctualPrice": 1000,
+            "description": "Men round neck printed poly cotton tshirt",
+            "quantity": 1,
+            "image": "images/men tshirt/Tshirt.jpg",
+            "category": "tshirt",
+            "rating": 4.4,
+            "review": 12000,
+            "deliveryCharge": "free delivery",
+            "replacementPeriod": "1 week",
+            "warrantyPeriod": "1 year",
+            "stock": 12
+        },
+        {
+            "id": 10,
+            "title": "Hrx",
+            "price": 1500,
+            "acctualPrice": 2200,
+            "description": "men striped round neck tshirt",
+            "quantity": 1,
+            "image": "images/men tshirt/ts8.jpg",
+            "category": "tshirt",
+            "rating": 4.4,
+            "review": 12000,
+            "deliveryCharge": "free delivery",
+            "replacementPeriod": "1 week",
+            "warrantyPeriod": "1 year",
+            "stock": 12
+        },
+        {
+            "id": 11,
+            "title": "Roadster ",
+            "price": 2000,
+            "acctualPrice": 3500,
+            "description": "Round neck cotton tshirt",
+            "quantity": 1,
+            "image": "images/men tshirt/ts7.jpg",
+            "category": "tshirt",
+            "rating": 4.4,
+            "review": 12000,
+            "deliveryCharge": "free delivery",
+            "replacementPeriod": "1 week",
+            "warrantyPeriod": "1 year",
+            "stock": 12
+        },
+        {
+            "id": 12,
+            "title": "Sony ",
+            "price": 14000,
+            "acctualPrice": 15000,
+            "description": "SONY Wh-CH250 with 50hr playtime",
+            "quantity": 1,
+            "image": "images/headphone/headphone.jpg",
+            "category": "headphone",
+            "rating": 4.4,
+            "review": 12000,
+            "deliveryCharge": "free delivery",
+            "replacementPeriod": "1 week",
+            "warrantyPeriod": "1 year",
+            "stock": 12
         }
     ],
-    "profile": {
-        "name": "typicode"
-    }
+    "address": [
+        {
+            "nameData": "fgffg",
+            "phoneData": "fgfgg",
+            "buildingData": "gdfgfg",
+            "areaData": "rerfb",
+            "pincodeData": "fgfgh",
+            "cityData": "hfghgh",
+            "id": 1
+        },
+        {
+            "nameData": "vcvc",
+            "phoneData": "ccvc",
+            "buildingData": "fdfdd",
+            "areaData": "cvcvc",
+            "pincodeData": "vcxvcv",
+            "cityData": "bvbvb",
+            "id": 2
+        },
+        {
+            "nameData": "jhjhjh",
+            "phoneData": "hgjh",
+            "buildingData": "xcxzc",
+            "areaData": "dffg",
+            "pincodeData": "fgfg",
+            "cityData": "jhk",
+            "id": 3
+        },
+        {
+            "nameData": "fdfdf",
+            "phoneData": "ghgg",
+            "buildingData": "rtyt",
+            "areaData": "xcxvc",
+            "pincodeData": ",jjkkj",
+            "cityData": "ereerr",
+            "id": 4
+        }
+    ],
+    "user": [
+        {
+            "name": "rohan",
+            "email": "rohan@gmail.com",
+            "password": "rohan123",
+            "id": 1
+        },
+        {
+            "name": "gfgfdf",
+            "email": "sahurohankumar47@gmail.com",
+            "password": "fgh123",
+            "id": 2
+        },
+        {
+            "name": "jfgjfd",
+            "email": "kjfgf@gmail.com",
+            "password": "fdffdf",
+            "id": 6
+        },
+        {
+            "name": "hey",
+            "email": "hey@gmail.com",
+            "password": "hey123",
+            "id": 7
+        }
+    ]
 }
