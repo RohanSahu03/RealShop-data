@@ -32,7 +32,7 @@
             "replacementPeriod": "1 week",
             "warrantyPeriod": "1 year",
             "stock": 5,
-            "subtotal": 1200
+            "subtotal": 7000
         },
         {
             "id": 3,
@@ -49,7 +49,7 @@
             "replacementPeriod": "1 week",
             "warrantyPeriod": "1 year",
             "stock": 3,
-            "subtotal": 1600
+            "subtotal": 3500
         },
         {
             "id": 4,
@@ -65,7 +65,8 @@
             "deliveryCharge": "free delivery",
             "replacementPeriod": "1 week",
             "warrantyPeriod": "1 year",
-            "stock": 16
+            "stock": 16,
+            "subtotal": 500
         },
         {
             "id": 5,
@@ -81,7 +82,8 @@
             "deliveryCharge": "free delivery",
             "replacementPeriod": "1 week",
             "warrantyPeriod": "1 year",
-            "stock": 12
+            "stock": 12,
+            "subtotal": 2000
         },
         {
             "id": 6,
@@ -97,7 +99,8 @@
             "deliveryCharge": "free delivery",
             "replacementPeriod": "1 week",
             "warrantyPeriod": "1 year",
-            "stock": 12
+            "stock": 12,
+            "subtotal": 1500
         },
         {
             "id": 7,
@@ -113,7 +116,8 @@
             "deliveryCharge": "free delivery",
             "replacementPeriod": "1 week",
             "warrantyPeriod": "1 year",
-            "stock": 12
+            "stock": 12,
+            "subtotal": 5000
         },
         {
             "id": 8,
@@ -129,7 +133,8 @@
             "deliveryCharge": "free delivery",
             "replacementPeriod": "1 week",
             "warrantyPeriod": "1 year",
-            "stock": 12
+            "stock": 12,
+            "subtotal": 60000
         },
         {
             "id": 9,
@@ -145,7 +150,8 @@
             "deliveryCharge": "free delivery",
             "replacementPeriod": "1 week",
             "warrantyPeriod": "1 year",
-            "stock": 12
+            "stock": 12,
+            "subtotal": 900
         },
         {
             "id": 10,
@@ -161,7 +167,8 @@
             "deliveryCharge": "free delivery",
             "replacementPeriod": "1 week",
             "warrantyPeriod": "1 year",
-            "stock": 12
+            "stock": 12,
+            "subtotal": 1500
         },
         {
             "id": 11,
@@ -177,7 +184,8 @@
             "deliveryCharge": "free delivery",
             "replacementPeriod": "1 week",
             "warrantyPeriod": "1 year",
-            "stock": 12
+            "stock": 12,
+            "subtotal": 2000
         },
         {
             "id": 12,
@@ -193,7 +201,8 @@
             "deliveryCharge": "free delivery",
             "replacementPeriod": "1 week",
             "warrantyPeriod": "1 year",
-            "stock": 12
+            "stock": 12,
+            "subtotal": 14000
         }
     ],
     "address": [
