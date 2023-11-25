@@ -244,29 +244,6 @@
         }
     ],
     "user": [
-        {
-            "name": "rohan",
-            "email": "rohan@gmail.com",
-            "password": "rohan123",
-            "id": 1
-        },
-        {
-            "name": "gfgfdf",
-            "email": "sahurohankumar47@gmail.com",
-            "password": "fgh123",
-            "id": 2
-        },
-        {
-            "name": "jfgjfd",
-            "email": "kjfgf@gmail.com",
-            "password": "fdffdf",
-            "id": 6
-        },
-        {
-            "name": "hey",
-            "email": "hey@gmail.com",
-            "password": "hey123",
-            "id": 7
-        }
+     
     ]
 }
